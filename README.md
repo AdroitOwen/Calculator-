@@ -1,2 +1,2 @@
-# Calculator-
-Progressive web app calcula
+# Calculator
+Progressive web app calculator
